@@ -15,3 +15,5 @@ uvicorn==0.38.0
 ipykernel
 pandas
 scikit-learn
+streamlit
+requests
